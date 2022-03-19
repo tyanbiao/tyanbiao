@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **tyanbiao/tyanbiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tyanbiao&show_icons=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
+### Hello 👋
+ 
+🇨🇳 China Shenzhen・🕹Web developer
+
+https://notion-feed.com
+
+<p align="left"><img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML5" width="32" height="32"/> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="32" height="32"/> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="32" height="32"/> <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="NestJS" width="32" height="32"/> <img src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" width="32" height="32"/> <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="Next.js" width="32" height="32"/></p>
