@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 
 ### Hello 👋
  
-🇨🇳 China Shenzhen・🕹Web developer · [tangyanbiao.com](https://tangyanbiao.com)
+🇨🇳 China Shenzhen・🕹 Fullstack developer
 
-https://notion-feed.com
+**My blog**
+- [https://tangyanbiao.com](https://tangyanbiao.com)
 
+**My Projects**
+- [https://notion-feed.com](https://notion-feed.com)
 
 
 <p align="left">
@@ -31,6 +34,6 @@ https://notion-feed.com
  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="32" height="32"/>
  <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="32" height="32"/>
  <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="NestJS" width="32" height="32"/>
- <img src="./images/rn.png" alt="Flutter" width="32" height="32"/>
+ <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="node.js" width="32" height="32"/>
  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="Next.js" width="32" height="32"/>
 </p>
