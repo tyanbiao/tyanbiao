@@ -20,11 +20,8 @@ Here are some ideas to get you started:
  
 🇨🇳 China Shenzhen・🕹 Fullstack developer
 
-**My blog**
-- [https://tangyanbiao.com](https://tangyanbiao.com)
 
-**My Projects**
-- [https://notion-feed.com](https://notion-feed.com)
+[https://tangyanbiao.com](https://tangyanbiao.com)
 
 
 <p align="left">
